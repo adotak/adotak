@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm adotak 👋
 
-<!--
-**adotak/adotak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in building useful software, learning new technologies, and sharing projects through GitHub.
+
+## What you'll find here
+
+- Experiments and side projects
+- Tools and automation
+- Notes from things I'm learning
+
+Thanks for stopping by!
