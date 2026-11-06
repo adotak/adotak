@@ -1,4 +1,4 @@
-# Hi, I'm adotak 👋
+# Hi, I'm Ahmad Aziz 👋
 
 Welcome to my GitHub profile.
 
